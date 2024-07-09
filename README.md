@@ -6,5 +6,6 @@ https://youtu.be/QPLWCaACQAE
 
 
 This Python project analyzes e-commerce sales data to reveal key insights. 
+
 By understanding customer behavior, product performance, and sales trends, it helps optimize online business operations. 
 
